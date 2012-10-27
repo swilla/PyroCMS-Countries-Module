@@ -1,6 +1,6 @@
 # PyroCMS Countries Module
 
-This is a simple plugin that allows you to display the load average of the server anywhere on the page. 
+The countries module is used import the 3 digit ISO 3166 country codes and integrate that content in other modules.
 
 ## Installation
 
